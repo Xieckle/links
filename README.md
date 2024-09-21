@@ -13,7 +13,7 @@
 - ')'  right bracket
 
 # Links
-[D2L](https://learn.georgebrown.ca/d2l/home)
-[Stu-view](https://https://stuview.georgebrown.ca)
-[Github](https://github.com)
+* [D2L](https://learn.georgebrown.ca/d2l/home)
+* [Stu-view](https://https://stuview.georgebrown.ca)
+* [Github](https://github.com)
 
