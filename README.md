@@ -17,3 +17,15 @@
 * [Stu-view](https://https://stuview.georgebrown.ca)
 * [Github](https://github.com)
 
+
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-O (open)
+- Ctrl-P ([rint])
+- Ctrl-X (cut)
+
+Shortcuts I would like to start using: 
+- Alt-Tab (Switch between apps)
+- Win-shift-S (snipping tool)
+- Ctrl-s (Save)
