@@ -1,0 +1,30 @@
+[
+    {
+      "name": "LeBron James",
+      "position": "Forward",
+      "age": "38",
+      "sport": "Basketball",
+      "team":{"name":"Lakers", "city":"Los Angeles"}
+    },
+    {
+      "name": "Lionel",
+      "position": "Forward",
+      "age": "36",
+      "sport": "Soccer",
+      "team":{"name":"Inter Miami", "city":"Miami"}
+    },
+    {
+      "name": "Serena Williams",
+      "position": "Player",
+      "age": "41",
+      "sport": "Tennis",
+      "team":{"name":"N/A", "city":"N/A"}
+    },
+    {
+      "name": "Tom Brady",
+      "position": "Quarterback",
+      "age": "46",
+      "sport": "Football",
+      "team":{"name":"Buccaneers", "city":"Tampa Bay"}
+    }
+  ]
