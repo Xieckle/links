@@ -18,7 +18,7 @@
       "position": "Player",
       "age": "41",
       "sport": "Tennis",
-      "team":{"name":"N/A", "city":"N/A"}
+      "team":{"name":"N/A", "city":"N/A"}  //does not represent team or city
     },
     {
       "name": "Tom Brady",
